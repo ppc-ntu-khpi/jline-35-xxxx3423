@@ -176,8 +176,8 @@ public class CLIdemo {
 ```
 
 ## Результат:
-![](1)
-![](2)
+![](https://github.com/ppc-ntu-khpi/jline-35-xxxx3423/blob/master/png/1.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/jline-35-xxxx3423/blob/master/png/2.png?raw=true)
 
 
 
