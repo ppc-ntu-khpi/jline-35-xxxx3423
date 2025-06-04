@@ -1,13 +1,3 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)]
-# UI Lab 2 
-
-
-Я виконав **наступне завдання** - [Робота 2: CLI з jline 3](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/Lab%202%20-%20CLI/Lab%202.md) на 5 балів.
-
-## Код:
-
-```java
-
 import com.mybank.data.DataSource;
 import com.mybank.domain.Bank;
 import com.mybank.domain.CheckingAccount;
@@ -29,7 +19,7 @@ import org.fusesource.jansi.*;
 /**
  * Console client for 'Banking' example
  *
- * @author Artem
+ * @author Angel
  */
 public class CLIdemo {
 
@@ -172,12 +162,3 @@ public class CLIdemo {
         shell.run();
     }
 }
-
-```
-
-## Результат:
-![](https://github.com/ppc-ntu-khpi/jline-35-xxxx3423/blob/master/png/1.png?raw=true)
-![](https://github.com/ppc-ntu-khpi/jline-35-xxxx3423/blob/master/png/2.png?raw=true)
-
-
-
